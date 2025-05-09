@@ -1,5 +1,5 @@
 {
-  "username": "boholst",
+  "username": "gwapo kent ",
   "chat_message": "Hello, this is a chat test!"
 }
 
